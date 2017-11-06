@@ -15,7 +15,9 @@ In the future I'd like to train the network for the EMNIST dataset and be able t
 handwritten recognition of alphanumeric characters in addition to only numbers. The same
 blackboard implementation will be used to test the performance manually.
 
-This code is really good for new students who want to get their hands dirty and learn how to
+### Motivation
+
+This code gives a good oportunity for new students who want to get their hands dirty and learn how to
 train the "Hello world" version of a CNN.
 
 ### Prerequisites
@@ -28,3 +30,31 @@ In order to use this code you'll need the following python libraries
 * numpy
 * matplotlib
 * os
+
+
+### How to run it
+
+
+`code()`
+
+    Markup :  `code()`
+
+```javascript
+    var specificLanguage_code = 
+    {
+        "data": {
+            "lookedUpPlatform": 1,
+            "query": "Kasabian+Test+Transmission",
+            "lookedUpItem": {
+                "name": "Test Transmission",
+                "artist": "Kasabian",
+                "album": "Kasabian",
+                "picture": null,
+                "link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
+            }
+        }
+    }
+```
+
+    Markup : ```javascript
+             ```
