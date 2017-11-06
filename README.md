@@ -17,3 +17,14 @@ blackboard implementation will be used to test the performance manually.
 
 This code is really good for new students who want to get their hands dirty and learn how to
 train the "Hello world" version of a CNN.
+
+### Prerequisites
+
+In order to use this code you'll need the following python libraries
+-Keras
+-cv2
+-sklearn
+-numpy
+-matplotlib
+-os
+
