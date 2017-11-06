@@ -21,33 +21,10 @@ train the "Hello world" version of a CNN.
 ### Prerequisites
 
 In order to use this code you'll need the following python libraries
-Markup : ```javascript
-             ```
+
 * keras
 * cv2
 * sklearn
 * numpy
 * matplotlib
 * os
-
-
-Markup : ```javascript
-             ```
-
-* Bullet list
-    * Nested bullet
-        * Sub-nested bullet etc
-* Bullet list item 2
-
-~~~
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-~~~
-
-1. A numbered list
-    1. A nested numbered list
-    2. Which is numbered
-2. Which is numbered
-
