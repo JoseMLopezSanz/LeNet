@@ -21,12 +21,14 @@ train the "Hello world" version of a CNN.
 ### Prerequisites
 
 In order to use this code you'll need the following python libraries
-Markup : * keras
-         * cv2
-*sklearn
-*numpy
-*matplotlib
-*os
+Markup : ```javascript
+             ```
+* keras
+* cv2
+* sklearn
+* numpy
+* matplotlib
+* os
 
 
 Markup : ```javascript
