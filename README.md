@@ -35,6 +35,7 @@ In order to use this code you'll need the following python libraries
 ### How to run it
 
 
-```python lenet_mnist.py
-   python mnist_draw.py
+```
+python lenet_mnist.py
+python mnist_draw.py
 ```
