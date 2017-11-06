@@ -35,26 +35,6 @@ In order to use this code you'll need the following python libraries
 ### How to run it
 
 
-`code()`
-
-    Markup :  `code()`
-
-```javascript
-    var specificLanguage_code = 
-    {
-        "data": {
-            "lookedUpPlatform": 1,
-            "query": "Kasabian+Test+Transmission",
-            "lookedUpItem": {
-                "name": "Test Transmission",
-                "artist": "Kasabian",
-                "album": "Kasabian",
-                "picture": null,
-                "link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
-            }
-        }
-    }
+```python lenet_mnist.py
+   python mnist_draw.py
 ```
-
-    Markup : ```javascript
-             ```
